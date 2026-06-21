@@ -1,0 +1,13 @@
+{
+  "name": "sun-api",
+  "version": "1.0.0",
+  "main": "sun.js",
+  "scripts": {
+    "start": "node sun.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.2",
+    "ws": "^8.21.0"
+  }
+}
